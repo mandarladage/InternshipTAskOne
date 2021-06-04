@@ -1,2 +1,2 @@
 # InternshipTaskOne
-It is recommended to turn of Dark Mode for better experience. 
+It is recommended to turn off Dark Mode for better experience. 
